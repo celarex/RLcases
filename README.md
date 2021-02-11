@@ -4,8 +4,8 @@
 
 Visualizations of feature maps (Left:BeamRider,Right:Breakout)
 
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif)
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif)
+![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif=360x360)
+![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif=360x360)
 
 Visualizations of filters (mnist)
 
