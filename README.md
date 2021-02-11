@@ -4,15 +4,11 @@
 
 Visualizations of feature maps (Left:BeamRider,Right:Breakout)
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif" alt="alt text" width="360" height="360">
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif" alt="alt text" width="360" height="360">
-
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif =360x360)
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif =360x360)
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif" alt="alt text" width="360" height="360"><img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif" alt="alt text" width="360" height="360">
 
 Visualizations of filters (mnist)
 
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_WeightVisualization_mnist.gif)
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_WeightVisualization_mnist.gif" alt="alt text" width="360" height="360">
 
 ## 2.
 
