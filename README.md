@@ -19,7 +19,7 @@ Visualizations of filters (mnist)
 
 ## 4.Maze Escape
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/4_Maze_Escape.gif" alt="" width="360" height="360">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/4_Maze_Escape.gif" alt="" width="512" height="288">
 
 ## 5.Starcraft
 
@@ -27,7 +27,7 @@ Visualizations of filters (mnist)
 
 Left:Hit and run,Right:Surround
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_HitandRun.gif" alt="" width="360" height="360"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_Surround.gif" alt="" width="360" height="360">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_HitandRun.gif" alt="" width="224" height="480"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_Surround.gif" alt="" width="224" height="480">
 
 ## 7.CCA
 
