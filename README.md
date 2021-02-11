@@ -37,7 +37,7 @@ Surround
 
 ## 7.CCA
 
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Large.gif)
+![image](https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Small.gif)
 
 
 ## 8.Halite
