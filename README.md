@@ -2,12 +2,9 @@
 
 ## 1.Platform for reinforcement learning research
 
-Visualizations of feature maps (BeamRider)
+Visualizations of feature maps (Left:BeamRider,Right:Breakout)
 
 ![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif)
-
-Visualizations of feature maps (Breakout)
-
 ![image](https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif)
 
 Visualizations of filters (mnist)
