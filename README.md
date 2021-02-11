@@ -27,7 +27,7 @@ Visualizations of filters (mnist)
 
 Left:Hit and run,Right:Surround
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_HitandRun.gif" alt="" width="224" height="480"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_Surround.gif" alt="" width="224" height="480">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_HitandRun.gif" alt="" width="480" height="224"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_Surround.gif" alt="" width="480" height="224">
 
 ## 7.CCA
 
