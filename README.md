@@ -4,11 +4,11 @@
 
 Visualizations of feature maps (Left:BeamRider,Right:Breakout)
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif" alt="alt text" width="360" height="360"><img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif" alt="alt text" width="360" height="360">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif" alt="" width="360" height="360"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif" alt="" width="360" height="360">
 
 Visualizations of filters (mnist)
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_WeightVisualization_mnist.gif" alt="alt text" width="360" height="360">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_WeightVisualization_mnist.gif" alt="" width="360" height="360">
 
 ## 2.
 
@@ -19,27 +19,23 @@ Visualizations of filters (mnist)
 
 ## 4.Maze Escape
 
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/4_Maze_Escape.gif)
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/4_Maze_Escape.gif" alt="" width="360" height="360">
 
 ## 5.Starcraft
 
 ## 6.Micromanagement
 
-Hit and run
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_HitandRun.gif)
+Left:Hit and run,Right:Surround
 
-Surround
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_Surround.gif)
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_HitandRun.gif" alt="" width="360" height="360"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_Surround.gif" alt="" width="360" height="360">
 
 ## 7.CCA
 
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Small.gif)
-
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Small.gif" alt="" width="360" height="360">
 
 ## 8.Halite
 
-![image](https://github.com/celarex/RLcases/blob/main/RLanimations/8_Halite_MultiAgent_Comp.gif)
-
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/8_Halite_MultiAgent_Comp.gif" alt="" width="360" height="360">
 
 ## 9.Scan robots
 
