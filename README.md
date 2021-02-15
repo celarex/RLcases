@@ -1,4 +1,4 @@
-# RLcases
+# RLcases (Timelines)
 
 ## 1.Platform for reinforcement learning research
 
@@ -44,10 +44,11 @@ Left:BeamRider's feature maps, Middle:Breakout's feature maps, Right:Visualizati
 
 **Results**
 
-Best Paper Award in SPIE Journal of Applied Remote Sensing, 2019
-https://doi.org/10.1117/1.JRS.13.044509
+* Best Paper Award in SPIE Journal of Applied Remote Sensing, 2019 https://doi.org/10.1117/1.JRS.13.044509
 
 **Sketches**
+
+Task descriptions by stages
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="960" height="540">
 
@@ -55,7 +56,7 @@ https://doi.org/10.1117/1.JRS.13.044509
 
 **Objectives**
 
-Training topology controllers to control electricity transportation in power grids, while keeping people and equipment safe from irregular wave motion or natural disasters. 
+* Training topology controllers to control electricity transportation in power grids, while keeping people and equipment safe from irregular wave motion or natural disasters. 
 
 **Results**
 
@@ -64,15 +65,45 @@ Training topology controllers to control electricity transportation in power gri
 
 **Animations**
 
+A tiny example case of power grids
+
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="960" height="540">
 
 ## 4.Maze Escape
+
+**Objectives**
+
+* General agent to escape from different mazes
+
+**Results**
+
+* Solved
+
+**Animations**
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/4_Maze_Escape.gif" alt="" width="512" height="288">
 
 ## 5.Starcraft
 
+**Objectives**
+
+* General agents to win in very complex environments
+
+**Results**
+
+* Familiar with pysc2 APIs
+
 ## 6.Micromanagement
+
+**Objectives**
+
+* Starcraft's minigame like setting for optimal tactic learning
+
+**Results**
+
+* Long range units learned hit and run tactic, Short range units learned surround tactic. 
+
+**Animations**
 
 Left:Hit and run,Right:Surround
 
@@ -80,24 +111,45 @@ Left:Hit and run,Right:Surround
 
 ## 7.CCA
 
+**Objectives**
+
+* Control controllable cellular to guide controllable cellular automaton to a specific target state
+
+**Results**
+
+* Simple cases are Solved. 
+
+**Animations**
+
 Left: Small case, Middle: Large case, Right: Loop tree case
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Small.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Large.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_LoopTree.gif" alt="" width="240" height="240">
 
 ## 8.Halite
 
+**Objectives**
+
+* A resource management game where agent build and control a small armada of ships to collect more halite, a luminous energy source. 
+https://www.kaggle.com/c/halite
+
+**Results**
+
+* Purely machine learned agent is an excellent collector with high collection efficiency, but not aggressive enough to beat top agents (with some hand-crafted features). 
+
+**Animations**
+
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/8_Halite_MultiAgent_Comp.gif" alt="" width="360" height="360">
 
 ## 9.Scan robots
 
+**Objectives**
+
+* Control multiple kinds of multiple robots to scan an area as soon as possible while avoiding static and dynamic obstacles.  
+
+**Results**
+
+* Well learned. 
+
+**Animations**
+
 ![image](https://github.com/celarex/RLcases/blob/main/RLanimations/9_ScanRobo_MultiTypeMultiAgent_Coop.gif)
-
-
-
-
-
-
-
-
-
-
