@@ -2,7 +2,7 @@
 
 ## 1.Platform for reinforcement learning research
 
-**Objectives
+**Objectives**
 
 v1.0
 * [x] Modular design (independent environment, agent, training arena, learning algorithm, approximate function and auxiliary modules)
@@ -22,7 +22,7 @@ v3.0
 * [ ] Model based algorithms
 * [ ] Explicitly communications
 
-**Results
+**Results**
 
 v1.0 - Surpass or do as well as OpenAI's Baselines on Atari and Mujoco cases
 
@@ -30,7 +30,7 @@ v2.0 - Performance similar with state-of-the-art algorithms on flickering Atari 
 
 v2.0 - Solved Starcraft minigames like micro management problems (Multi-agent cases)
 
-**Animations
+**Animations**
 
 Left:BeamRider's feature maps, Middle:Breakout's feature maps, Right:Visualizations of filters for MNIST
 
