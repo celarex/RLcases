@@ -8,10 +8,10 @@ v1.0
 * [x] Modular design (independent environment, agent, training arena, learning algorithm, approximate function and auxiliary modules)
 * [x] Open closed principle (implemented by wrapper design)
 * [X] Multi-platform (support Pytorch and Tensorflow for convenient performance comparison with other open sources)
-* [X] Automatic hyperparameter search (implemented by Optuna)
 * [X] Multi-algorithm; Multi-model (implemented A2C,Acktr,PPO,... algorithms; CNN,RNN,... models)
 * [X] Multi-CPU sampling; Multi-GPU calculation
 * [X] Customizable environments (used pygame for 2d cases and Panda3D for 3d cases)
+* [X] Automatic hyperparameter search (implemented by Optuna)
 
 v2.0
 * [X] Solutions for POMDPs (Inference in vision)
