@@ -13,8 +13,8 @@
 * [X] Customizable environments (used pygame for 2d cases and Panda3D for 3d cases)
 * [X] Automatic hyperparameter search (implemented by Optuna)
 * v2.0
-* [X] Solutions for POMDPs (Inference in vision)
-* [X] Solutions for Multi-agent problems (Training arena for multi-player multi-type multi-agents without explicitly communication)
+* [X] Modules for POMDPs (Inference in vision)
+* [X] Modules for Multi-agent problems (Training arena for multi-player multi-type multi-agents without explicitly communication)
 * v3.0
 * [ ] Distributional calculation
 * [ ] Model based algorithms
