@@ -50,7 +50,7 @@ Left:BeamRider's feature maps, Middle:Breakout's feature maps, Right:Visualizati
 
 Task descriptions by stages
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="960" height="540">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="720" height="405">
 
 ## 3.Powernet running
 
@@ -67,7 +67,7 @@ Task descriptions by stages
 
 A tiny example case of power grids
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="960" height="540">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="720" height="405">
 
 ## 4.Maze Escape
 
