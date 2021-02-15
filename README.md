@@ -49,7 +49,7 @@ https://doi.org/10.1117/1.JRS.13.044509
 
 **Sketches**
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="640" height="360">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="960" height="540">
 
 ## 3.Powernet running
 
@@ -59,12 +59,12 @@ Training topology controllers to control electricity transportation in power gri
 
 **Results**
 
-* [X] Randed 4th in Learning to run a power network challenge
+* [X] Ranked 4th in Learning to run a power network challenge
 * [X] Invited talk for the Annual Meeting of IEEJ (The Institute of Electrical Engineers of Japan), 2020
 
 **Animations**
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="640" height="360">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="960" height="540">
 
 ## 4.Maze Escape
 
