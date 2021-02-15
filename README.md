@@ -83,7 +83,7 @@ A tiny example case of power grids
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/4_Maze_Escape.gif" alt="" width="512" height="288">
 
-## 5.Starcraft2
+## 5.Starcraft 2
 
 **Objectives**
 
@@ -93,7 +93,7 @@ A tiny example case of power grids
 
 * Familiar with pysc2 APIs
 
-## 6.Micromanagement in Real Time Strategy Game
+## 6.Micromanagement in Real-Time-Strategy Game
 
 **Objectives**
 
@@ -125,11 +125,11 @@ Left: Small case, Middle: Large case, Right: Loop tree case
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Small.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Large.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_LoopTree.gif" alt="" width="240" height="240">
 
-## 8.Halite 4 - Kaggle Competition
+## 8.Halite 4
 
 **Objectives**
 
-* A resource management game where agent build and control a small armada of ships to collect more halite, a luminous energy source. 
+* Kaggle competition, a resource management game where agent build and control a small armada of ships to collect more halite, a luminous energy source. 
 https://www.kaggle.com/c/halite
 
 **Results**
