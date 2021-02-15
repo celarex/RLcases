@@ -14,7 +14,7 @@
 * [X] Automatic hyperparameter search (implemented by Optuna)
 * v2.0
 * [X] Modules for POMDPs (Inference in vision)
-* [X] Modules for Multi-agent problems (Training arena for multi-player multi-type multi-agents without explicitly communication)
+* [X] Modules for Multi-agent problems (Training arena for multi-player multi-type multi-agent without explicitly communication)
 * v3.0
 * [ ] Distributional calculation
 * [ ] Model based algorithms
@@ -144,7 +144,7 @@ https://www.kaggle.com/c/halite
 
 **Objectives**
 
-* Control multiple kinds of multiple robots to scan an area as soon as possible while avoiding static and dynamic obstacles.  
+* Control multiple types of multiple robots to scan an area as soon as possible while avoiding static and dynamic obstacles.  
 
 **Results**
 
