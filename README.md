@@ -117,7 +117,7 @@ Left:Hit and run,Right:Surround
 
 **Results**
 
-* Simple cases are Solved. 
+* Foundational cases are Solved. 
 
 **Animations**
 
