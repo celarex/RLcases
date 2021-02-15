@@ -49,7 +49,7 @@ https://doi.org/10.1117/1.JRS.13.044509
 
 **Sketches**
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="240" height="240">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="640" height="360">
 
 ## 3.Powernet running
 
@@ -64,7 +64,7 @@ Training topology controllers to control electricity transportation in power gri
 
 **Animations**
 
-<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="240" height="240">
+<img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="640" height="360">
 
 ## 4.Maze Escape
 
