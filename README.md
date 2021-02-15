@@ -25,9 +25,7 @@ v3.0
 **Results**
 
 v1.0 - Surpass or do as well as OpenAI's Baselines on Atari and Mujoco cases
-
 v2.0 - Performance similar with state-of-the-art algorithms on flickering Atari cases (POMDP cases)
-
 v2.0 - Solved Starcraft minigames like micro management problems (Multi-agent cases)
 
 **Animations**
