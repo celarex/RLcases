@@ -60,7 +60,7 @@ Task descriptions by stages
 
 **Results**
 
-* [X] Ranked 4th in Learning to run a power network challenge
+* [X] Ranked 4th in Learning to run a power network challenge https://l2rpn.chalearn.org/
 * [X] Invited talk for the Annual Meeting of IEEJ (The Institute of Electrical Engineers of Japan), 2020
 
 **Animations**
