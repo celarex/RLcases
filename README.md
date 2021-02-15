@@ -34,10 +34,35 @@ Left:BeamRider's feature maps, Middle:Breakout's feature maps, Right:Visualizati
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_BeamRider.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_LayerVisualization_Breakout.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/1_WeightVisualization_mnist.gif" alt="" width="240" height="240">
 
-## 2.
+## 2.Unmanned underwater and airborne monitorings
+
+**Objectives**
+
+* [X] Optimize controlling of multiple kinds of unmanned vehicles
+* [X] Capture targets efficiently while avoiding collision with obstacles
+* [X] Adapting for POMDP environments
+
+**Results**
+
+Best Paper Award in SPIE Journal of Applied Remote Sensing, 2019
+https://doi.org/10.1117/1.JRS.13.044509
+
+**Sketches**
 
 
-## 3.
+
+## 3.Powernet running
+
+**Objectives**
+
+Training topology controllers to control electricity transportation in power grids, while keeping people and equipment safe from irregular wave motion or natural disasters. 
+
+**Results**
+
+* [X] Randed 4th in Learning to run a power network challenge
+* [X] Invited talk for the Annual Meeting of IEEJ (The Institute of Electrical Engineers of Japan), 2020
+
+**Sketches**
 
 
 
