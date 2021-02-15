@@ -10,7 +10,7 @@
 * [X] Multi-platform (support Pytorch and Tensorflow for convenient performance comparison with other open sources)
 * [X] Multi-algorithm; Multi-model (implemented A2C,Acktr,PPO,... algorithms; CNN,RNN,... models)
 * [X] Multi-CPU sampling; Multi-GPU calculation
-* [X] Customizable environments (used pygame for 2d cases and Panda3D for 3d cases)
+* [X] Modules for custom environments (used pygame for 2d cases and Panda3D for 3d cases)
 * [X] Automatic hyperparameter search (implemented by Optuna)
 * v2.0
 * [X] Modules for POMDPs (Inference in vision)
