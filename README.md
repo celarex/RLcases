@@ -52,7 +52,7 @@ Task descriptions by stages
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/2_MultipleUnmannedVehicles.png" alt="" width="720" height="405">
 
-## 3.Powernet running
+## 3.Power network running
 
 **Objectives**
 
@@ -69,7 +69,7 @@ A tiny example case of power grids
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/3_L2RPN.gif" alt="" width="720" height="405">
 
-## 4.Maze Escape
+## 4.Maze Escaping
 
 **Objectives**
 
@@ -83,7 +83,7 @@ A tiny example case of power grids
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/4_Maze_Escape.gif" alt="" width="512" height="288">
 
-## 5.Starcraft
+## 5.Starcraft2
 
 **Objectives**
 
@@ -93,7 +93,7 @@ A tiny example case of power grids
 
 * Familiar with pysc2 APIs
 
-## 6.Micromanagement
+## 6.Micromanagement in Real Time Strategy Game
 
 **Objectives**
 
@@ -109,7 +109,7 @@ Left:Hit and run,Right:Surround
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_HitandRun.gif" alt="" width="480" height="224"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/6_Micro_Surround.gif" alt="" width="480" height="224">
 
-## 7.CCA
+## 7.Controllable Cellular Automaton
 
 **Objectives**
 
@@ -125,7 +125,7 @@ Left: Small case, Middle: Large case, Right: Loop tree case
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Small.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_Large.gif" alt="" width="240" height="240"> <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/7_CCA_LoopTree.gif" alt="" width="240" height="240">
 
-## 8.Halite
+## 8.Halite 4 - Kaggle Competition
 
 **Objectives**
 
