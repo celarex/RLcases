@@ -134,9 +134,11 @@ https://www.kaggle.com/c/halite
 
 **Results**
 
-* Purely machine learned agent is an excellent collector with high collection efficiency, but not aggressive enough to beat top agents (with some hand-crafted features). 
+* Purely machine learned agent was an excellent collector with high collection efficiency, but not aggressive enough to beat top agents (with some hand-crafted features). 
 
 **Animations**
+
+Custom rendering for agent development
 
 <img src="https://github.com/celarex/RLcases/blob/main/RLanimations/8_Halite_MultiAgent_Comp.gif" alt="" width="360" height="360">
 
